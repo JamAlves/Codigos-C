@@ -7,7 +7,7 @@
 	printf("%d",TAM);
 	
 	int i;
-	for (i = 1; i<TAM; i++){
+	for (i = 1; i<=TAM; i++){
 		printf("\n%d", i);
 	}
 	
